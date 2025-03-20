@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "memory": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-memory"],
+      "description": "Knowledge graph-based persistent memory with entity and relation management, observation storage, and graph querying.",
+      "type": "STDIO"
+    },
+    "python-repl": {
+      "command": "uv",
+      "args": ["run", "python-local"],
+      "description": "Interactive Python REPL environment for running Python code directly with session state maintenance.",
+      "type": "STDIO"
+    },
+    "webcam": {
+      "command": "npx",
+      "args": ["-y", "@llmindset/mcp-webcam"],
+      "description": "Capture live images from webcam with screenshot capability and image processing capabilities.",
+      "type": "STDIO"
+    },
+    "youtube-transcript": {
+      "command": "npx",
+      "args": ["-y", "@kimtaeyoon83/mcp-server-youtube-transcript"],
+      "description": "YouTube transcript extraction with multiple language support and URL processing for content analysis.",
+      "type": "STDIO"
+    },
+    "win-cli": {
+      "command": "npx",
+      "args": ["-y", "@simonb97/server-win-cli"],
+      "description": "Secure Windows command-line interaction with multi-shell support and robust security controls.",
+      "type": "STDIO"
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-brave-search"],
+      "description": "Web search capabilities using Brave Search engine for information retrieval and research.",
+      "type": "STDIO"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem"],
+      "description": "Enhanced file system operations with advanced file reading, writing, and management capabilities.",
+      "type": "STDIO"
+    },
+    "source-sage": {
+      "command": "npx",
+      "args": ["-y", "@sunwood-ai-labs/source-sage-mcp-server"],
+      "description": "Code understanding and navigation tools with project structure analysis and semantic code comprehension.",
+      "type": "STDIO"
+    }
+  }
+}

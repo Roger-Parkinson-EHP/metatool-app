@@ -1,0 +1,138 @@
+[
+  {
+    "name": "use-resource-tracking.test.tsx",
+    "type": "file",
+    "path": "hooks\\__tests__\\use-resource-tracking.test.tsx",
+    "extension": ".tsx",
+    "size": 10407,
+    "modified": "2025-03-20T03:13:06.506Z"
+  },
+  {
+    "name": "ResourcePrioritizationRunner.test.ts",
+    "type": "file",
+    "path": "lib\\resource-tracking\\ResourcePrioritizationRunner.test.ts",
+    "extension": ".ts",
+    "size": 10494,
+    "modified": "2025-03-20T02:36:33.106Z"
+  },
+  {
+    "name": "ResourcePrioritizationRunner.test.ts",
+    "type": "file",
+    "path": "lib\\resource-tracking\\__tests__\\ResourcePrioritizationRunner.test.ts",
+    "extension": ".ts",
+    "size": 15866,
+    "modified": "2025-03-20T02:56:50.557Z"
+  },
+  {
+    "name": "ResourceService.test.ts",
+    "type": "file",
+    "path": "lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+    "extension": ".ts",
+    "size": 17569,
+    "modified": "2025-03-20T02:59:18.158Z"
+  },
+  {
+    "name": "ResourceTracker.test.ts",
+    "type": "file",
+    "path": "lib\\resource-tracking\\__tests__\\ResourceTracker.test.ts",
+    "extension": ".ts",
+    "size": 11218,
+    "modified": "2025-03-20T02:51:10.522Z"
+  },
+  {
+    "name": "test-utils.ts",
+    "type": "file",
+    "path": "lib\\resource-tracking\\__tests__\\test-utils.ts",
+    "extension": ".ts",
+    "size": 6310,
+    "modified": "2025-03-20T02:47:13.592Z"
+  },
+  {
+    "name": "TokenCounter.test.ts",
+    "type": "file",
+    "path": "lib\\token-counting\\__tests__\\TokenCounter.test.ts",
+    "extension": ".ts",
+    "size": 11505,
+    "modified": "2025-03-20T02:52:02.405Z"
+  },
+  {
+    "name": "feedback-driven-testing.js",
+    "type": "file",
+    "path": "scripts\\feedback-driven-testing.js",
+    "extension": ".js",
+    "size": 14432,
+    "modified": "2025-03-20T03:10:41.062Z"
+  },
+  {
+    "name": "sdk-test.js",
+    "type": "file",
+    "path": "scripts\\sdk-test.js",
+    "extension": ".js",
+    "size": 396,
+    "modified": "2025-03-20T19:27:58.670Z"
+  },
+  {
+    "name": "test-coverage-analyzer.js",
+    "type": "file",
+    "path": "scripts\\test-coverage-analyzer.js",
+    "extension": ".js",
+    "size": 8571,
+    "modified": "2025-03-20T19:55:43.294Z"
+  },
+  {
+    "name": "test-fixed-server.js",
+    "type": "file",
+    "path": "scripts\\test-fixed-server.js",
+    "extension": ".js",
+    "size": 2356,
+    "modified": "2025-03-20T19:28:37.974Z"
+  },
+  {
+    "name": "test-import-fix.js",
+    "type": "file",
+    "path": "scripts\\test-import-fix.js",
+    "extension": ".js",
+    "size": 1878,
+    "modified": "2025-03-20T19:31:49.945Z"
+  },
+  {
+    "name": "test-prioritization.js",
+    "type": "file",
+    "path": "scripts\\test-prioritization.js",
+    "extension": ".js",
+    "size": 9744,
+    "modified": "2025-03-20T01:19:59.567Z"
+  },
+  {
+    "name": "test-resource-prioritization-runner.ts",
+    "type": "file",
+    "path": "scripts\\test-resource-prioritization-runner.ts",
+    "extension": ".ts",
+    "size": 3996,
+    "modified": "2025-03-20T02:07:37.422Z"
+  },
+  {
+    "name": "test-resource-token-management.js",
+    "type": "file",
+    "path": "scripts\\test-resource-token-management.js",
+    "extension": ".js",
+    "size": 2929,
+    "modified": "2025-03-20T00:31:53.276Z"
+  },
+  {
+    "name": "test-resource-tracking.js",
+    "type": "file",
+    "path": "scripts\\test-resource-tracking.js",
+    "extension": ".js",
+    "size": 12763,
+    "modified": "2025-03-20T03:01:59.269Z"
+  },
+  {
+    "name": "page.tsx",
+    "type": "file",
+    "path": "app\\(sidebar-layout)\\(container)\\inspector-guide\\page.tsx",
+    "extension": ".tsx",
+    "size": 2475,
+    "modified": "2025-03-19T19:45:27.591Z"
+  }
+]

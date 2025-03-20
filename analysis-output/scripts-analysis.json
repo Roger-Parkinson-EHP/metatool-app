@@ -1,0 +1,346 @@
+{
+  "categorized": {
+    "coreMcpServers": [
+      {
+        "name": "simplified-rogerthat-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\simplified-rogerthat-server.js",
+        "size": 3120,
+        "lastModified": "2025-03-20T16:21:55.278Z"
+      },
+      {
+        "name": "simplified-semantic-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\simplified-semantic-server.js",
+        "size": 2798,
+        "lastModified": "2025-03-20T16:22:38.895Z"
+      },
+      {
+        "name": "unified-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\unified-server.js",
+        "size": 19631,
+        "lastModified": "2025-03-20T19:29:52.904Z"
+      }
+    ],
+    "testingScripts": [
+      {
+        "name": "sdk-test.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\sdk-test.js",
+        "size": 396,
+        "lastModified": "2025-03-20T19:27:58.670Z"
+      },
+      {
+        "name": "test-coverage-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-coverage-analyzer.js",
+        "size": 8571,
+        "lastModified": "2025-03-20T19:55:43.294Z"
+      },
+      {
+        "name": "test-fixed-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-fixed-server.js",
+        "size": 2356,
+        "lastModified": "2025-03-20T19:28:37.974Z"
+      },
+      {
+        "name": "test-import-fix.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-import-fix.js",
+        "size": 1878,
+        "lastModified": "2025-03-20T19:31:49.945Z"
+      },
+      {
+        "name": "test-prioritization.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-prioritization.js",
+        "size": 9744,
+        "lastModified": "2025-03-20T01:19:59.567Z"
+      },
+      {
+        "name": "test-resource-prioritization-runner.ts",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-resource-prioritization-runner.ts",
+        "size": 3996,
+        "lastModified": "2025-03-20T02:07:37.422Z"
+      },
+      {
+        "name": "test-resource-token-management.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-resource-token-management.js",
+        "size": 2929,
+        "lastModified": "2025-03-20T00:31:53.276Z"
+      },
+      {
+        "name": "test-resource-tracking.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\test-resource-tracking.js",
+        "size": 12763,
+        "lastModified": "2025-03-20T03:01:59.269Z"
+      }
+    ],
+    "analyzerScripts": [],
+    "utilityScripts": [
+      {
+        "name": "fixed-codebase-analysis.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\fixed-codebase-analysis.js",
+        "size": 5241,
+        "lastModified": "2025-03-20T20:17:52.852Z"
+      },
+      {
+        "name": "simple-cleanup-organizer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\simple-cleanup-organizer.js",
+        "size": 9876,
+        "lastModified": "2025-03-20T20:18:40.655Z"
+      }
+    ],
+    "redundantScripts": [
+      {
+        "name": "fixed-semantic-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\fixed-semantic-server.js",
+        "size": 0,
+        "lastModified": "2025-03-20T04:56:38.392Z"
+      },
+      {
+        "name": "generate-fixed-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\generate-fixed-server.js",
+        "size": 8225,
+        "lastModified": "2025-03-20T18:24:25.441Z"
+      },
+      {
+        "name": "mcp-server-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-server-analyzer.js",
+        "size": 9851,
+        "lastModified": "2025-03-20T19:56:29.519Z"
+      },
+      {
+        "name": "rogerthat-server-mock.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\rogerthat-server-mock.js",
+        "size": 721,
+        "lastModified": "2025-03-20T04:54:56.620Z"
+      },
+      {
+        "name": "rogerthat-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\rogerthat-server.js",
+        "size": 20936,
+        "lastModified": "2025-03-20T05:15:31.343Z"
+      },
+      {
+        "name": "semantic-server-mock.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\semantic-server-mock.js",
+        "size": 602,
+        "lastModified": "2025-03-20T04:54:43.782Z"
+      },
+      {
+        "name": "semantic-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\semantic-server.js",
+        "size": 8367,
+        "lastModified": "2025-03-20T05:15:46.900Z"
+      },
+      {
+        "name": "server-comparison-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\server-comparison-analyzer.js",
+        "size": 10007,
+        "lastModified": "2025-03-20T18:12:40.496Z"
+      },
+      {
+        "name": "simple-mcp-server.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\simple-mcp-server.js",
+        "size": 5819,
+        "lastModified": "2025-03-20T19:04:07.580Z"
+      }
+    ],
+    "uncategorized": [
+      {
+        "name": "analyze-resource-usage.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyze-resource-usage.js",
+        "size": 10458,
+        "lastModified": "2025-03-20T00:34:56.549Z"
+      },
+      {
+        "name": "codebase-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\codebase-analyzer.js",
+        "size": 8927,
+        "lastModified": "2025-03-20T18:11:56.953Z"
+      },
+      {
+        "name": "feedback-driven-testing.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\feedback-driven-testing.js",
+        "size": 14432,
+        "lastModified": "2025-03-20T03:10:41.062Z"
+      },
+      {
+        "name": "generate-report.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\generate-report.js",
+        "size": 13576,
+        "lastModified": "2025-03-20T01:20:55.606Z"
+      },
+      {
+        "name": "import-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\import-analyzer.js",
+        "size": 10335,
+        "lastModified": "2025-03-20T19:50:12.155Z"
+      },
+      {
+        "name": "quick-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\quick-analyzer.js",
+        "size": 7668,
+        "lastModified": "2025-03-20T18:23:46.581Z"
+      },
+      {
+        "name": "repo-mapper.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\repo-mapper.js",
+        "size": 6184,
+        "lastModified": "2025-03-20T19:49:29.019Z"
+      },
+      {
+        "name": "run-codebase-analysis.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\run-codebase-analysis.js",
+        "size": 13955,
+        "lastModified": "2025-03-20T19:58:28.929Z"
+      },
+      {
+        "name": "setup.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\setup.js",
+        "size": 2444,
+        "lastModified": "2025-03-20T05:16:08.487Z"
+      },
+      {
+        "name": "tree-sitter-analyzer.js",
+        "path": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\tree-sitter-analyzer.js",
+        "size": 18883,
+        "lastModified": "2025-03-20T18:16:48.371Z"
+      }
+    ]
+  },
+  "suggestions": {
+    "rename": [
+      {
+        "from": "simplified-rogerthat-server.js",
+        "to": "mcp-token-server.js",
+        "reason": "Better name for consistent naming convention"
+      },
+      {
+        "from": "simplified-semantic-server.js",
+        "to": "mcp-semantic-server.js",
+        "reason": "Better name for consistent naming convention"
+      },
+      {
+        "from": "unified-server.js",
+        "to": "mcp-unified-server.js",
+        "reason": "Better name for consistent naming convention"
+      }
+    ],
+    "archive": [
+      {
+        "file": "fixed-semantic-server.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "generate-fixed-server.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "mcp-server-analyzer.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "rogerthat-server-mock.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "rogerthat-server.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "semantic-server-mock.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "semantic-server.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "server-comparison-analyzer.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "simple-mcp-server.js",
+        "reason": "Redundant or unused server/mock implementation"
+      },
+      {
+        "file": "sdk-test.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-coverage-analyzer.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-fixed-server.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-import-fix.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-prioritization.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-resource-prioritization-runner.ts",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-resource-token-management.js",
+        "reason": "Test for non-core component"
+      },
+      {
+        "file": "test-resource-tracking.js",
+        "reason": "Test for non-core component"
+      }
+    ],
+    "keep": [
+      {
+        "file": "fixed-codebase-analysis.js",
+        "reason": "Utility script"
+      },
+      {
+        "file": "simple-cleanup-organizer.js",
+        "reason": "Utility script"
+      },
+      {
+        "file": "analyze-resource-usage.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "codebase-analyzer.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "feedback-driven-testing.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "generate-report.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "import-analyzer.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "quick-analyzer.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "repo-mapper.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "run-codebase-analysis.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "setup.js",
+        "reason": "Recently modified script"
+      },
+      {
+        "file": "tree-sitter-analyzer.js",
+        "reason": "Recently modified script"
+      }
+    ]
+  }
+}

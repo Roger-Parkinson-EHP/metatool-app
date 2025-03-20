@@ -1,0 +1,1973 @@
+{
+  "stats": {
+    "directories": 69,
+    "files": 222,
+    "filesByExtension": {
+      ".tsx": 51,
+      ".ts": 37,
+      ".json": 13,
+      ".md": 86,
+      ".bat": 2,
+      ".js": 32,
+      ".py": 1
+    },
+    "totalSize": 1607832
+  },
+  "structure": {
+    ".embeddings-cache": {
+      "type": "directory",
+      "path": ".embeddings-cache",
+      "children": {}
+    },
+    ".sessions": {
+      "type": "directory",
+      "path": ".sessions",
+      "children": {}
+    },
+    ".workspaces": {
+      "type": "directory",
+      "path": ".workspaces",
+      "children": {}
+    },
+    "analysis-output": {
+      "type": "directory",
+      "path": "analysis-output",
+      "children": {}
+    },
+    "app": {
+      "type": "directory",
+      "path": "app",
+      "children": {
+        "(sidebar-layout)": {
+          "type": "directory",
+          "path": "app\\(sidebar-layout)",
+          "children": {
+            "(container)": {
+              "type": "directory",
+              "path": "app\\(sidebar-layout)\\(container)",
+              "children": {
+                "api-keys": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\api-keys",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\api-keys\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 8208,
+                      "modified": "2025-03-19T19:45:27.588Z"
+                    }
+                  }
+                },
+                "custom-mcp-servers": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\custom-mcp-servers",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 14287,
+                      "modified": "2025-03-19T19:45:27.590Z"
+                    },
+                    "[uuid]": {
+                      "type": "directory",
+                      "path": "app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\[uuid]",
+                      "children": {
+                        "page.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\[uuid]\\page.tsx",
+                          "extension": ".tsx",
+                          "size": 14359,
+                          "modified": "2025-03-19T19:45:27.590Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "inspector-guide": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\inspector-guide",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\inspector-guide\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 2475,
+                      "modified": "2025-03-19T19:45:27.591Z"
+                    }
+                  }
+                },
+                "layout.tsx": {
+                  "type": "file",
+                  "path": "app\\(sidebar-layout)\\(container)\\layout.tsx",
+                  "extension": ".tsx",
+                  "size": 202,
+                  "modified": "2025-03-19T19:45:27.592Z"
+                },
+                "mcp-servers": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\mcp-servers",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\mcp-servers\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 23979,
+                      "modified": "2025-03-19T19:45:27.594Z"
+                    },
+                    "[uuid]": {
+                      "type": "directory",
+                      "path": "app\\(sidebar-layout)\\(container)\\mcp-servers\\[uuid]",
+                      "children": {
+                        "page.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\mcp-servers\\[uuid]\\page.tsx",
+                          "extension": ".tsx",
+                          "size": 14134,
+                          "modified": "2025-03-19T19:45:27.593Z"
+                        }
+                      }
+                    }
+                  }
+                },
+                "search": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\search",
+                  "children": {
+                    "components": {
+                      "type": "directory",
+                      "path": "app\\(sidebar-layout)\\(container)\\search\\components",
+                      "children": {
+                        "CardGrid.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\search\\components\\CardGrid.tsx",
+                          "extension": ".tsx",
+                          "size": 8311,
+                          "modified": "2025-03-19T19:45:27.596Z"
+                        },
+                        "PaginationUi.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\search\\components\\PaginationUi.tsx",
+                          "extension": ".tsx",
+                          "size": 2570,
+                          "modified": "2025-03-19T19:45:27.596Z"
+                        }
+                      }
+                    },
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\search\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 2748,
+                      "modified": "2025-03-19T19:45:27.597Z"
+                    }
+                  }
+                },
+                "settings": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\settings",
+                  "children": {
+                    "components": {
+                      "type": "directory",
+                      "path": "app\\(sidebar-layout)\\(container)\\settings\\components",
+                      "children": {
+                        "current-profile-section.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\settings\\components\\current-profile-section.tsx",
+                          "extension": ".tsx",
+                          "size": 4971,
+                          "modified": "2025-03-19T19:45:27.598Z"
+                        },
+                        "current-project-section.tsx": {
+                          "type": "file",
+                          "path": "app\\(sidebar-layout)\\(container)\\settings\\components\\current-project-section.tsx",
+                          "extension": ".tsx",
+                          "size": 4805,
+                          "modified": "2025-03-19T19:45:27.598Z"
+                        }
+                      }
+                    },
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\settings\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 443,
+                      "modified": "2025-03-19T19:45:27.598Z"
+                    }
+                  }
+                },
+                "setup-guide": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\(container)\\setup-guide",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\(container)\\setup-guide\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 12615,
+                      "modified": "2025-03-19T19:45:27.599Z"
+                    }
+                  }
+                }
+              }
+            },
+            "editor": {
+              "type": "directory",
+              "path": "app\\(sidebar-layout)\\editor",
+              "children": {
+                "page.tsx": {
+                  "type": "file",
+                  "path": "app\\(sidebar-layout)\\editor\\page.tsx",
+                  "extension": ".tsx",
+                  "size": 193,
+                  "modified": "2025-03-19T19:45:27.600Z"
+                },
+                "[uuid]": {
+                  "type": "directory",
+                  "path": "app\\(sidebar-layout)\\editor\\[uuid]",
+                  "children": {
+                    "page.tsx": {
+                      "type": "file",
+                      "path": "app\\(sidebar-layout)\\editor\\[uuid]\\page.tsx",
+                      "extension": ".tsx",
+                      "size": 1717,
+                      "modified": "2025-03-19T19:45:27.599Z"
+                    }
+                  }
+                }
+              }
+            },
+            "layout.tsx": {
+              "type": "file",
+              "path": "app\\(sidebar-layout)\\layout.tsx",
+              "extension": ".tsx",
+              "size": 240,
+              "modified": "2025-03-19T19:45:27.600Z"
+            }
+          }
+        },
+        "actions": {
+          "type": "directory",
+          "path": "app\\actions",
+          "children": {
+            "api-keys.ts": {
+              "type": "file",
+              "path": "app\\actions\\api-keys.ts",
+              "extension": ".ts",
+              "size": 1717,
+              "modified": "2025-03-19T19:45:27.601Z"
+            },
+            "code.ts": {
+              "type": "file",
+              "path": "app\\actions\\code.ts",
+              "extension": ".ts",
+              "size": 2724,
+              "modified": "2025-03-20T02:11:04.063Z"
+            },
+            "custom-mcp-servers.ts": {
+              "type": "file",
+              "path": "app\\actions\\custom-mcp-servers.ts",
+              "extension": ".ts",
+              "size": 4530,
+              "modified": "2025-03-19T19:45:27.601Z"
+            },
+            "mcp-servers.ts": {
+              "type": "file",
+              "path": "app\\actions\\mcp-servers.ts",
+              "extension": ".ts",
+              "size": 3684,
+              "modified": "2025-03-19T19:45:27.603Z"
+            },
+            "profiles.ts": {
+              "type": "file",
+              "path": "app\\actions\\profiles.ts",
+              "extension": ".ts",
+              "size": 4556,
+              "modified": "2025-03-19T19:45:27.603Z"
+            },
+            "projects.ts": {
+              "type": "file",
+              "path": "app\\actions\\projects.ts",
+              "extension": ".ts",
+              "size": 2972,
+              "modified": "2025-03-19T19:45:27.603Z"
+            },
+            "resource-tracking.ts": {
+              "type": "file",
+              "path": "app\\actions\\resource-tracking.ts",
+              "extension": ".ts",
+              "size": 4530,
+              "modified": "2025-03-20T02:34:08.497Z"
+            }
+          }
+        },
+        "api": {
+          "type": "directory",
+          "path": "app\\api",
+          "children": {
+            "auth.ts": {
+              "type": "file",
+              "path": "app\\api\\auth.ts",
+              "extension": ".ts",
+              "size": 1307,
+              "modified": "2025-03-19T19:45:27.603Z"
+            },
+            "custom-mcp-servers": {
+              "type": "directory",
+              "path": "app\\api\\custom-mcp-servers",
+              "children": {
+                "route.ts": {
+                  "type": "file",
+                  "path": "app\\api\\custom-mcp-servers\\route.ts",
+                  "extension": ".ts",
+                  "size": 2558,
+                  "modified": "2025-03-19T19:45:27.604Z"
+                }
+              }
+            },
+            "mcp-servers": {
+              "type": "directory",
+              "path": "app\\api\\mcp-servers",
+              "children": {
+                "route.ts": {
+                  "type": "file",
+                  "path": "app\\api\\mcp-servers\\route.ts",
+                  "extension": ".ts",
+                  "size": 1640,
+                  "modified": "2025-03-19T19:45:27.604Z"
+                }
+              }
+            }
+          }
+        },
+        "layout.tsx": {
+          "type": "file",
+          "path": "app\\layout.tsx",
+          "extension": ".tsx",
+          "size": 796,
+          "modified": "2025-03-19T19:45:27.606Z"
+        },
+        "page.tsx": {
+          "type": "file",
+          "path": "app\\page.tsx",
+          "extension": ".tsx",
+          "size": 113,
+          "modified": "2025-03-19T19:45:27.607Z"
+        }
+      }
+    },
+    "components": {
+      "type": "directory",
+      "path": "components",
+      "children": {
+        "profile-switcher.tsx": {
+          "type": "file",
+          "path": "components\\profile-switcher.tsx",
+          "extension": ".tsx",
+          "size": 6958,
+          "modified": "2025-03-19T19:45:27.607Z"
+        },
+        "project-switcher.tsx": {
+          "type": "file",
+          "path": "components\\project-switcher.tsx",
+          "extension": ".tsx",
+          "size": 5282,
+          "modified": "2025-03-19T19:45:27.608Z"
+        },
+        "resource-tracking": {
+          "type": "directory",
+          "path": "components\\resource-tracking",
+          "children": {
+            "context-resources-panel.tsx": {
+              "type": "file",
+              "path": "components\\resource-tracking\\context-resources-panel.tsx",
+              "extension": ".tsx",
+              "size": 4967,
+              "modified": "2025-03-20T02:11:41.975Z"
+            },
+            "highcharts-dashboard.tsx": {
+              "type": "file",
+              "path": "components\\resource-tracking\\highcharts-dashboard.tsx",
+              "extension": ".tsx",
+              "size": 24011,
+              "modified": "2025-03-20T03:08:49.766Z"
+            },
+            "resource-importance-indicator.tsx": {
+              "type": "file",
+              "path": "components\\resource-tracking\\resource-importance-indicator.tsx",
+              "extension": ".tsx",
+              "size": 1971,
+              "modified": "2025-03-20T02:11:18.259Z"
+            },
+            "token-budget-indicator.tsx": {
+              "type": "file",
+              "path": "components\\resource-tracking\\token-budget-indicator.tsx",
+              "extension": ".tsx",
+              "size": 1956,
+              "modified": "2025-03-20T02:36:50.723Z"
+            }
+          }
+        },
+        "sidebar-layout.tsx": {
+          "type": "file",
+          "path": "components\\sidebar-layout.tsx",
+          "extension": ".tsx",
+          "size": 11351,
+          "modified": "2025-03-19T19:45:27.608Z"
+        },
+        "ui": {
+          "type": "directory",
+          "path": "components\\ui",
+          "children": {
+            "avatar.tsx": {
+              "type": "file",
+              "path": "components\\ui\\avatar.tsx",
+              "extension": ".tsx",
+              "size": 1469,
+              "modified": "2025-03-19T19:45:27.609Z"
+            },
+            "badge.tsx": {
+              "type": "file",
+              "path": "components\\ui\\badge.tsx",
+              "extension": ".tsx",
+              "size": 1176,
+              "modified": "2025-03-19T19:45:27.609Z"
+            },
+            "button.tsx": {
+              "type": "file",
+              "path": "components\\ui\\button.tsx",
+              "extension": ".tsx",
+              "size": 1959,
+              "modified": "2025-03-19T19:45:27.609Z"
+            },
+            "card.tsx": {
+              "type": "file",
+              "path": "components\\ui\\card.tsx",
+              "extension": ".tsx",
+              "size": 1904,
+              "modified": "2025-03-19T19:45:27.610Z"
+            },
+            "command.tsx": {
+              "type": "file",
+              "path": "components\\ui\\command.tsx",
+              "extension": ".tsx",
+              "size": 5081,
+              "modified": "2025-03-19T19:45:27.610Z"
+            },
+            "dialog.tsx": {
+              "type": "file",
+              "path": "components\\ui\\dialog.tsx",
+              "extension": ".tsx",
+              "size": 3971,
+              "modified": "2025-03-19T19:45:27.610Z"
+            },
+            "dropdown-menu.tsx": {
+              "type": "file",
+              "path": "components\\ui\\dropdown-menu.tsx",
+              "extension": ".tsx",
+              "size": 7617,
+              "modified": "2025-03-19T19:45:27.611Z"
+            },
+            "form.tsx": {
+              "type": "file",
+              "path": "components\\ui\\form.tsx",
+              "extension": ".tsx",
+              "size": 4289,
+              "modified": "2025-03-19T19:45:27.611Z"
+            },
+            "input.tsx": {
+              "type": "file",
+              "path": "components\\ui\\input.tsx",
+              "extension": ".tsx",
+              "size": 790,
+              "modified": "2025-03-19T19:45:27.612Z"
+            },
+            "label.tsx": {
+              "type": "file",
+              "path": "components\\ui\\label.tsx",
+              "extension": ".tsx",
+              "size": 750,
+              "modified": "2025-03-19T19:45:27.612Z"
+            },
+            "pagination.tsx": {
+              "type": "file",
+              "path": "components\\ui\\pagination.tsx",
+              "extension": ".tsx",
+              "size": 2868,
+              "modified": "2025-03-19T19:45:27.612Z"
+            },
+            "popover.tsx": {
+              "type": "file",
+              "path": "components\\ui\\popover.tsx",
+              "extension": ".tsx",
+              "size": 1339,
+              "modified": "2025-03-19T19:45:27.612Z"
+            },
+            "scroll-area.tsx": {
+              "type": "file",
+              "path": "components\\ui\\scroll-area.tsx",
+              "extension": ".tsx",
+              "size": 1704,
+              "modified": "2025-03-19T19:45:27.612Z"
+            },
+            "separator.tsx": {
+              "type": "file",
+              "path": "components\\ui\\separator.tsx",
+              "extension": ".tsx",
+              "size": 801,
+              "modified": "2025-03-19T19:45:27.613Z"
+            },
+            "sheet.tsx": {
+              "type": "file",
+              "path": "components\\ui\\sheet.tsx",
+              "extension": ".tsx",
+              "size": 4420,
+              "modified": "2025-03-19T19:45:27.613Z"
+            },
+            "sidebar.tsx": {
+              "type": "file",
+              "path": "components\\ui\\sidebar.tsx",
+              "extension": ".tsx",
+              "size": 24216,
+              "modified": "2025-03-19T19:45:27.613Z"
+            },
+            "skeleton.tsx": {
+              "type": "file",
+              "path": "components\\ui\\skeleton.tsx",
+              "extension": ".tsx",
+              "size": 281,
+              "modified": "2025-03-19T19:45:27.614Z"
+            },
+            "switch.tsx": {
+              "type": "file",
+              "path": "components\\ui\\switch.tsx",
+              "extension": ".tsx",
+              "size": 1191,
+              "modified": "2025-03-19T19:45:27.614Z"
+            },
+            "tabs.tsx": {
+              "type": "file",
+              "path": "components\\ui\\tabs.tsx",
+              "extension": ".tsx",
+              "size": 1958,
+              "modified": "2025-03-19T19:45:27.615Z"
+            },
+            "textarea.tsx": {
+              "type": "file",
+              "path": "components\\ui\\textarea.tsx",
+              "extension": ".tsx",
+              "size": 677,
+              "modified": "2025-03-19T19:45:27.615Z"
+            },
+            "toast.tsx": {
+              "type": "file",
+              "path": "components\\ui\\toast.tsx",
+              "extension": ".tsx",
+              "size": 4983,
+              "modified": "2025-03-19T19:45:27.615Z"
+            },
+            "toaster.tsx": {
+              "type": "file",
+              "path": "components\\ui\\toaster.tsx",
+              "extension": ".tsx",
+              "size": 821,
+              "modified": "2025-03-19T19:45:27.615Z"
+            },
+            "tooltip.tsx": {
+              "type": "file",
+              "path": "components\\ui\\tooltip.tsx",
+              "extension": ".tsx",
+              "size": 1249,
+              "modified": "2025-03-19T19:45:27.615Z"
+            }
+          }
+        }
+      }
+    },
+    "components.json": {
+      "type": "file",
+      "path": "components.json",
+      "extension": ".json",
+      "size": 461,
+      "modified": "2025-03-19T19:45:27.607Z"
+    },
+    "config": {
+      "type": "directory",
+      "path": "config",
+      "children": {}
+    },
+    "data": {
+      "type": "directory",
+      "path": "data",
+      "children": {}
+    },
+    "db": {
+      "type": "directory",
+      "path": "db",
+      "children": {
+        "index.ts": {
+          "type": "file",
+          "path": "db\\index.ts",
+          "extension": ".ts",
+          "size": 189,
+          "modified": "2025-03-19T19:45:27.616Z"
+        },
+        "migrations": {
+          "type": "directory",
+          "path": "db\\migrations",
+          "children": {
+            "resource-tracking-schema.ts": {
+              "type": "file",
+              "path": "db\\migrations\\resource-tracking-schema.ts",
+              "extension": ".ts",
+              "size": 4074,
+              "modified": "2025-03-20T00:57:01.277Z"
+            },
+            "semantic-enhancement-schema.ts": {
+              "type": "file",
+              "path": "db\\migrations\\semantic-enhancement-schema.ts",
+              "extension": ".ts",
+              "size": 3356,
+              "modified": "2025-03-20T04:44:16.206Z"
+            }
+          }
+        },
+        "schema.ts": {
+          "type": "file",
+          "path": "db\\schema.ts",
+          "extension": ".ts",
+          "size": 4598,
+          "modified": "2025-03-19T19:45:27.616Z"
+        },
+        "utils": {
+          "type": "directory",
+          "path": "db\\utils",
+          "children": {
+            "enum-to-pg-enum.ts": {
+              "type": "file",
+              "path": "db\\utils\\enum-to-pg-enum.ts",
+              "extension": ".ts",
+              "size": 186,
+              "modified": "2025-03-19T19:45:27.616Z"
+            }
+          }
+        }
+      }
+    },
+    "docs": {
+      "type": "directory",
+      "path": "docs",
+      "children": {
+        "api": {
+          "type": "directory",
+          "path": "docs\\api",
+          "children": {
+            "metadata.md": {
+              "type": "file",
+              "path": "docs\\api\\metadata.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.082Z"
+            },
+            "overview.md": {
+              "type": "file",
+              "path": "docs\\api\\overview.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.079Z"
+            },
+            "project.md": {
+              "type": "file",
+              "path": "docs\\api\\project.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.086Z"
+            },
+            "session.md": {
+              "type": "file",
+              "path": "docs\\api\\session.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.081Z"
+            },
+            "workspace.md": {
+              "type": "file",
+              "path": "docs\\api\\workspace.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.084Z"
+            }
+          }
+        },
+        "architecture": {
+          "type": "directory",
+          "path": "docs\\architecture",
+          "children": {
+            "components.md": {
+              "type": "file",
+              "path": "docs\\architecture\\components.md",
+              "extension": ".md",
+              "size": 12800,
+              "modified": "2025-03-19T22:12:01.092Z"
+            },
+            "data-flow.md": {
+              "type": "file",
+              "path": "docs\\architecture\\data-flow.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:49.983Z"
+            },
+            "integration-patterns.md": {
+              "type": "file",
+              "path": "docs\\architecture\\integration-patterns.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:49.984Z"
+            },
+            "overview.md": {
+              "type": "file",
+              "path": "docs\\architecture\\overview.md",
+              "extension": ".md",
+              "size": 8944,
+              "modified": "2025-03-19T22:04:33.061Z"
+            }
+          }
+        },
+        "core-objects": {
+          "type": "directory",
+          "path": "docs\\core-objects",
+          "children": {
+            "overview.md": {
+              "type": "file",
+              "path": "docs\\core-objects\\overview.md",
+              "extension": ".md",
+              "size": 4786,
+              "modified": "2025-03-19T21:59:41.929Z"
+            },
+            "project": {
+              "type": "directory",
+              "path": "docs\\core-objects\\project",
+              "children": {
+                "customization.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\project\\customization.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.062Z"
+                },
+                "properties.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\project\\properties.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.058Z"
+                },
+                "structure.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\project\\structure.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.055Z"
+                }
+              }
+            },
+            "workflow": {
+              "type": "directory",
+              "path": "docs\\core-objects\\workflow",
+              "children": {
+                "custom-workflow.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workflow\\custom-workflow.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.069Z"
+                },
+                "examples": {
+                  "type": "directory",
+                  "path": "docs\\core-objects\\workflow\\examples",
+                  "children": {
+                    "capital-raise.md": {
+                      "type": "file",
+                      "path": "docs\\core-objects\\workflow\\examples\\capital-raise.md",
+                      "extension": ".md",
+                      "size": 4983,
+                      "modified": "2025-03-19T22:00:42.609Z"
+                    },
+                    "development.md": {
+                      "type": "file",
+                      "path": "docs\\core-objects\\workflow\\examples\\development.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.071Z"
+                    },
+                    "job-applications.md": {
+                      "type": "file",
+                      "path": "docs\\core-objects\\workflow\\examples\\job-applications.md",
+                      "extension": ".md",
+                      "size": 5673,
+                      "modified": "2025-03-19T22:08:06.699Z"
+                    }
+                  }
+                },
+                "properties.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workflow\\properties.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.067Z"
+                },
+                "structure.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workflow\\structure.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.064Z"
+                }
+              }
+            },
+            "workspace": {
+              "type": "directory",
+              "path": "docs\\core-objects\\workspace",
+              "children": {
+                "customization.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workspace\\customization.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.053Z"
+                },
+                "properties.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workspace\\properties.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.051Z"
+                },
+                "structure.md": {
+                  "type": "file",
+                  "path": "docs\\core-objects\\workspace\\structure.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.050Z"
+                }
+              }
+            }
+          }
+        },
+        "development": {
+          "type": "directory",
+          "path": "docs\\development",
+          "children": {
+            "coding-standards.md": {
+              "type": "file",
+              "path": "docs\\development\\coding-standards.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.096Z"
+            },
+            "contributing.md": {
+              "type": "file",
+              "path": "docs\\development\\contributing.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.095Z"
+            },
+            "testing.md": {
+              "type": "file",
+              "path": "docs\\development\\testing.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.098Z"
+            }
+          }
+        },
+        "diagrams": {
+          "type": "directory",
+          "path": "docs\\diagrams",
+          "children": {
+            "architecture-diagrams.md": {
+              "type": "file",
+              "path": "docs\\diagrams\\architecture-diagrams.md",
+              "extension": ".md",
+              "size": 11766,
+              "modified": "2025-03-19T22:17:46.752Z"
+            },
+            "integration-diagrams.md": {
+              "type": "file",
+              "path": "docs\\diagrams\\integration-diagrams.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.093Z"
+            },
+            "overview.md": {
+              "type": "file",
+              "path": "docs\\diagrams\\overview.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.087Z"
+            },
+            "workflow-diagrams.md": {
+              "type": "file",
+              "path": "docs\\diagrams\\workflow-diagrams.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.091Z"
+            }
+          }
+        },
+        "features": {
+          "type": "directory",
+          "path": "docs\\features",
+          "children": {
+            "ci-cd": {
+              "type": "directory",
+              "path": "docs\\features\\ci-cd",
+              "children": {
+                "implementation.md": {
+                  "type": "file",
+                  "path": "docs\\features\\ci-cd\\implementation.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:49.999Z"
+                },
+                "overview.md": {
+                  "type": "file",
+                  "path": "docs\\features\\ci-cd\\overview.md",
+                  "extension": ".md",
+                  "size": 4543,
+                  "modified": "2025-03-19T22:00:09.627Z"
+                },
+                "workflow.md": {
+                  "type": "file",
+                  "path": "docs\\features\\ci-cd\\workflow.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.002Z"
+                }
+              }
+            },
+            "metadata-extraction": {
+              "type": "directory",
+              "path": "docs\\features\\metadata-extraction",
+              "children": {
+                "implementation.md": {
+                  "type": "file",
+                  "path": "docs\\features\\metadata-extraction\\implementation.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:49.994Z"
+                },
+                "overview.md": {
+                  "type": "file",
+                  "path": "docs\\features\\metadata-extraction\\overview.md",
+                  "extension": ".md",
+                  "size": 6394,
+                  "modified": "2025-03-19T22:05:08.841Z"
+                },
+                "schemas.md": {
+                  "type": "file",
+                  "path": "docs\\features\\metadata-extraction\\schemas.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:49.996Z"
+                }
+              }
+            },
+            "session-persistence": {
+              "type": "directory",
+              "path": "docs\\features\\session-persistence",
+              "children": {
+                "implementation.md": {
+                  "type": "file",
+                  "path": "docs\\features\\session-persistence\\implementation.md",
+                  "extension": ".md",
+                  "size": 24989,
+                  "modified": "2025-03-19T23:53:46.350Z"
+                },
+                "minimal-schema.md": {
+                  "type": "file",
+                  "path": "docs\\features\\session-persistence\\minimal-schema.md",
+                  "extension": ".md",
+                  "size": 14852,
+                  "modified": "2025-03-20T00:53:20.143Z"
+                },
+                "overview.md": {
+                  "type": "file",
+                  "path": "docs\\features\\session-persistence\\overview.md",
+                  "extension": ".md",
+                  "size": 5361,
+                  "modified": "2025-03-19T22:57:10.508Z"
+                },
+                "schema-updates.md": {
+                  "type": "file",
+                  "path": "docs\\features\\session-persistence\\schema-updates.md",
+                  "extension": ".md",
+                  "size": 11956,
+                  "modified": "2025-03-20T00:22:17.651Z"
+                },
+                "usage.md": {
+                  "type": "file",
+                  "path": "docs\\features\\session-persistence\\usage.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:49.990Z"
+                }
+              }
+            },
+            "token-awareness": {
+              "type": "directory",
+              "path": "docs\\features\\token-awareness",
+              "children": {
+                "implementation-details.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\implementation-details.md",
+                  "extension": ".md",
+                  "size": 23912,
+                  "modified": "2025-03-20T03:33:56.389Z"
+                },
+                "implementation-fixes.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\implementation-fixes.md",
+                  "extension": ".md",
+                  "size": 4241,
+                  "modified": "2025-03-20T02:39:23.776Z"
+                },
+                "implementation-plan.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\implementation-plan.md",
+                  "extension": ".md",
+                  "size": 8671,
+                  "modified": "2025-03-20T02:05:09.813Z"
+                },
+                "overview.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\overview.md",
+                  "extension": ".md",
+                  "size": 11976,
+                  "modified": "2025-03-19T23:59:55.545Z"
+                },
+                "README.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\README.md",
+                  "extension": ".md",
+                  "size": 4896,
+                  "modified": "2025-03-20T02:12:09.223Z"
+                },
+                "resource-aware-context.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\resource-aware-context.md",
+                  "extension": ".md",
+                  "size": 11324,
+                  "modified": "2025-03-20T00:50:45.405Z"
+                },
+                "resource-prioritization-runner.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\resource-prioritization-runner.md",
+                  "extension": ".md",
+                  "size": 11430,
+                  "modified": "2025-03-20T02:04:37.432Z"
+                },
+                "ROGERTHAT.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\ROGERTHAT.md",
+                  "extension": ".md",
+                  "size": 6830,
+                  "modified": "2025-03-20T03:18:28.206Z"
+                },
+                "semantic-enhancement.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\semantic-enhancement.md",
+                  "extension": ".md",
+                  "size": 10119,
+                  "modified": "2025-03-20T04:44:58.664Z"
+                },
+                "testing-strategy.md": {
+                  "type": "file",
+                  "path": "docs\\features\\token-awareness\\testing-strategy.md",
+                  "extension": ".md",
+                  "size": 14482,
+                  "modified": "2025-03-20T03:37:32.831Z"
+                }
+              }
+            }
+          }
+        },
+        "mcp-integration": {
+          "type": "directory",
+          "path": "docs\\mcp-integration",
+          "children": {
+            "categories": {
+              "type": "directory",
+              "path": "docs\\mcp-integration\\categories",
+              "children": {
+                "data-processing": {
+                  "type": "directory",
+                  "path": "docs\\mcp-integration\\categories\\data-processing",
+                  "children": {
+                    "data-analysis.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\data-processing\\data-analysis.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.035Z"
+                    },
+                    "database-tools.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\data-processing\\database-tools.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.039Z"
+                    },
+                    "overview.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\data-processing\\overview.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.033Z"
+                    },
+                    "visualization.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\data-processing\\visualization.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.037Z"
+                    }
+                  }
+                },
+                "development": {
+                  "type": "directory",
+                  "path": "docs\\mcp-integration\\categories\\development",
+                  "children": {
+                    "code-analysis.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\development\\code-analysis.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.012Z"
+                    },
+                    "code-editors.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\development\\code-editors.md",
+                      "extension": ".md",
+                      "size": 4299,
+                      "modified": "2025-03-19T23:08:18.958Z"
+                    },
+                    "git-tools.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\development\\git-tools.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.010Z"
+                    },
+                    "overview.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\development\\overview.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.005Z"
+                    },
+                    "repl-environments.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\development\\repl-environments.md",
+                      "extension": ".md",
+                      "size": 4405,
+                      "modified": "2025-03-19T22:57:38.434Z"
+                    }
+                  }
+                },
+                "productivity": {
+                  "type": "directory",
+                  "path": "docs\\mcp-integration\\categories\\productivity",
+                  "children": {
+                    "communication-tools.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\productivity\\communication-tools.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.029Z"
+                    },
+                    "document-creation.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\productivity\\document-creation.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.031Z"
+                    },
+                    "overview.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\productivity\\overview.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.025Z"
+                    },
+                    "task-management.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\productivity\\task-management.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.027Z"
+                    }
+                  }
+                },
+                "research": {
+                  "type": "directory",
+                  "path": "docs\\mcp-integration\\categories\\research",
+                  "children": {
+                    "knowledge-management.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\research\\knowledge-management.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.022Z"
+                    },
+                    "overview.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\research\\overview.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.017Z"
+                    },
+                    "rag-systems.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\research\\rag-systems.md",
+                      "extension": ".md",
+                      "size": 0,
+                      "modified": "2025-03-19T21:56:50.021Z"
+                    },
+                    "web-fetch.md": {
+                      "type": "file",
+                      "path": "docs\\mcp-integration\\categories\\research\\web-fetch.md",
+                      "extension": ".md",
+                      "size": 4987,
+                      "modified": "2025-03-19T23:01:39.155Z"
+                    }
+                  }
+                }
+              }
+            },
+            "integration-examples": {
+              "type": "directory",
+              "path": "docs\\mcp-integration\\integration-examples",
+              "children": {
+                "capital-raise.md": {
+                  "type": "file",
+                  "path": "docs\\mcp-integration\\integration-examples\\capital-raise.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.046Z"
+                },
+                "development-pipeline.md": {
+                  "type": "file",
+                  "path": "docs\\mcp-integration\\integration-examples\\development-pipeline.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.041Z"
+                },
+                "research-workflow.md": {
+                  "type": "file",
+                  "path": "docs\\mcp-integration\\integration-examples\\research-workflow.md",
+                  "extension": ".md",
+                  "size": 0,
+                  "modified": "2025-03-19T21:56:50.044Z"
+                }
+              }
+            },
+            "overview.md": {
+              "type": "file",
+              "path": "docs\\mcp-integration\\overview.md",
+              "extension": ".md",
+              "size": 10611,
+              "modified": "2025-03-19T23:54:39.412Z"
+            }
+          }
+        },
+        "README.md": {
+          "type": "file",
+          "path": "docs\\README.md",
+          "extension": ".md",
+          "size": 3221,
+          "modified": "2025-03-20T00:00:23.944Z"
+        },
+        "setup": {
+          "type": "directory",
+          "path": "docs\\setup",
+          "children": {
+            "configuration.md": {
+              "type": "file",
+              "path": "docs\\setup\\configuration.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:49.975Z"
+            },
+            "installation.md": {
+              "type": "file",
+              "path": "docs\\setup\\installation.md",
+              "extension": ".md",
+              "size": 10532,
+              "modified": "2025-03-19T22:13:43.604Z"
+            },
+            "quick-start.md": {
+              "type": "file",
+              "path": "docs\\setup\\quick-start.md",
+              "extension": ".md",
+              "size": 5106,
+              "modified": "2025-03-19T22:05:48.686Z"
+            }
+          }
+        },
+        "tasks": {
+          "type": "directory",
+          "path": "docs\\tasks",
+          "children": {
+            "phase1-foundation.md": {
+              "type": "file",
+              "path": "docs\\tasks\\phase1-foundation.md",
+              "extension": ".md",
+              "size": 11610,
+              "modified": "2025-03-19T22:11:05.710Z"
+            },
+            "phase2-core-functionality.md": {
+              "type": "file",
+              "path": "docs\\tasks\\phase2-core-functionality.md",
+              "extension": ".md",
+              "size": 9172,
+              "modified": "2025-03-19T22:07:32.378Z"
+            },
+            "phase3-advanced-features.md": {
+              "type": "file",
+              "path": "docs\\tasks\\phase3-advanced-features.md",
+              "extension": ".md",
+              "size": 0,
+              "modified": "2025-03-19T21:56:50.103Z"
+            }
+          }
+        }
+      }
+    },
+    "drizzle": {
+      "type": "directory",
+      "path": "drizzle",
+      "children": {
+        "meta": {
+          "type": "directory",
+          "path": "drizzle\\meta",
+          "children": {
+            "0000_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0000_snapshot.json",
+              "extension": ".json",
+              "size": 9073,
+              "modified": "2025-03-19T19:45:27.620Z"
+            },
+            "0001_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0001_snapshot.json",
+              "extension": ".json",
+              "size": 12333,
+              "modified": "2025-03-19T19:45:27.620Z"
+            },
+            "0002_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0002_snapshot.json",
+              "extension": ".json",
+              "size": 13592,
+              "modified": "2025-03-19T19:45:27.620Z"
+            },
+            "0003_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0003_snapshot.json",
+              "extension": ".json",
+              "size": 13746,
+              "modified": "2025-03-19T19:45:27.621Z"
+            },
+            "0004_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0004_snapshot.json",
+              "extension": ".json",
+              "size": 14728,
+              "modified": "2025-03-19T19:45:27.621Z"
+            },
+            "0005_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0005_snapshot.json",
+              "extension": ".json",
+              "size": 13746,
+              "modified": "2025-03-19T19:45:27.621Z"
+            },
+            "0006_snapshot.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\0006_snapshot.json",
+              "extension": ".json",
+              "size": 14684,
+              "modified": "2025-03-19T19:45:27.622Z"
+            },
+            "_journal.json": {
+              "type": "file",
+              "path": "drizzle\\meta\\_journal.json",
+              "extension": ".json",
+              "size": 1129,
+              "modified": "2025-03-19T19:45:27.622Z"
+            }
+          }
+        }
+      }
+    },
+    "drizzle.config.ts": {
+      "type": "file",
+      "path": "drizzle.config.ts",
+      "extension": ".ts",
+      "size": 249,
+      "modified": "2025-03-19T19:45:27.617Z"
+    },
+    "hooks": {
+      "type": "directory",
+      "path": "hooks",
+      "children": {
+        "use-codes.ts": {
+          "type": "file",
+          "path": "hooks\\use-codes.ts",
+          "extension": ".ts",
+          "size": 1008,
+          "modified": "2025-03-19T19:45:27.623Z"
+        },
+        "use-mobile.tsx": {
+          "type": "file",
+          "path": "hooks\\use-mobile.tsx",
+          "extension": ".tsx",
+          "size": 584,
+          "modified": "2025-03-19T19:45:27.623Z"
+        },
+        "use-profiles.ts": {
+          "type": "file",
+          "path": "hooks\\use-profiles.ts",
+          "extension": ".ts",
+          "size": 2189,
+          "modified": "2025-03-19T19:45:27.623Z"
+        },
+        "use-projects.ts": {
+          "type": "file",
+          "path": "hooks\\use-projects.ts",
+          "extension": ".ts",
+          "size": 1411,
+          "modified": "2025-03-19T19:45:27.623Z"
+        },
+        "use-resource-tracking.ts": {
+          "type": "file",
+          "path": "hooks\\use-resource-tracking.ts",
+          "extension": ".ts",
+          "size": 5485,
+          "modified": "2025-03-20T02:37:16.910Z"
+        },
+        "use-toast.ts": {
+          "type": "file",
+          "path": "hooks\\use-toast.ts",
+          "extension": ".ts",
+          "size": 4198,
+          "modified": "2025-03-19T19:45:27.624Z"
+        },
+        "__tests__": {
+          "type": "directory",
+          "path": "hooks\\__tests__",
+          "children": {
+            "use-resource-tracking.test.tsx": {
+              "type": "file",
+              "path": "hooks\\__tests__\\use-resource-tracking.test.tsx",
+              "extension": ".tsx",
+              "size": 10407,
+              "modified": "2025-03-20T03:13:06.506Z"
+            }
+          }
+        }
+      }
+    },
+    "Implementation Plan.md": {
+      "type": "file",
+      "path": "Implementation Plan.md",
+      "extension": ".md",
+      "size": 11341,
+      "modified": "2025-03-19T21:40:34.132Z"
+    },
+    "import-config.json": {
+      "type": "file",
+      "path": "import-config.json",
+      "extension": ".json",
+      "size": 2119,
+      "modified": "2025-03-19T23:12:23.242Z"
+    },
+    "launch.bat": {
+      "type": "file",
+      "path": "launch.bat",
+      "extension": ".bat",
+      "size": 1009,
+      "modified": "2025-03-20T16:22:57.483Z"
+    },
+    "lib": {
+      "type": "directory",
+      "path": "lib",
+      "children": {
+        "llm": {
+          "type": "directory",
+          "path": "lib\\llm",
+          "children": {
+            "context-provider.ts": {
+              "type": "file",
+              "path": "lib\\llm\\context-provider.ts",
+              "extension": ".ts",
+              "size": 3765,
+              "modified": "2025-03-20T02:34:34.523Z"
+            }
+          }
+        },
+        "resource-tracking": {
+          "type": "directory",
+          "path": "lib\\resource-tracking",
+          "children": {
+            "resource-logger.ts": {
+              "type": "file",
+              "path": "lib\\resource-tracking\\resource-logger.ts",
+              "extension": ".ts",
+              "size": 3001,
+              "modified": "2025-03-20T02:37:34.455Z"
+            },
+            "ResourcePrioritizationRunner.test.ts": {
+              "type": "file",
+              "path": "lib\\resource-tracking\\ResourcePrioritizationRunner.test.ts",
+              "extension": ".ts",
+              "size": 10494,
+              "modified": "2025-03-20T02:36:33.106Z"
+            },
+            "ResourcePrioritizationRunner.ts": {
+              "type": "file",
+              "path": "lib\\resource-tracking\\ResourcePrioritizationRunner.ts",
+              "extension": ".ts",
+              "size": 18426,
+              "modified": "2025-03-20T02:39:02.499Z"
+            },
+            "ResourceService.ts": {
+              "type": "file",
+              "path": "lib\\resource-tracking\\ResourceService.ts",
+              "extension": ".ts",
+              "size": 12611,
+              "modified": "2025-03-20T00:59:12.224Z"
+            },
+            "ResourceTracker.ts": {
+              "type": "file",
+              "path": "lib\\resource-tracking\\ResourceTracker.ts",
+              "extension": ".ts",
+              "size": 7356,
+              "modified": "2025-03-20T00:55:59.756Z"
+            },
+            "__tests__": {
+              "type": "directory",
+              "path": "lib\\resource-tracking\\__tests__",
+              "children": {
+                "ResourcePrioritizationRunner.test.ts": {
+                  "type": "file",
+                  "path": "lib\\resource-tracking\\__tests__\\ResourcePrioritizationRunner.test.ts",
+                  "extension": ".ts",
+                  "size": 15866,
+                  "modified": "2025-03-20T02:56:50.557Z"
+                },
+                "ResourceService.test.ts": {
+                  "type": "file",
+                  "path": "lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+                  "extension": ".ts",
+                  "size": 17569,
+                  "modified": "2025-03-20T02:59:18.158Z"
+                },
+                "ResourceTracker.test.ts": {
+                  "type": "file",
+                  "path": "lib\\resource-tracking\\__tests__\\ResourceTracker.test.ts",
+                  "extension": ".ts",
+                  "size": 11218,
+                  "modified": "2025-03-20T02:51:10.522Z"
+                },
+                "test-utils.ts": {
+                  "type": "file",
+                  "path": "lib\\resource-tracking\\__tests__\\test-utils.ts",
+                  "extension": ".ts",
+                  "size": 6310,
+                  "modified": "2025-03-20T02:47:13.592Z"
+                }
+              }
+            }
+          }
+        },
+        "token-counting": {
+          "type": "directory",
+          "path": "lib\\token-counting",
+          "children": {
+            "TokenCounter.ts": {
+              "type": "file",
+              "path": "lib\\token-counting\\TokenCounter.ts",
+              "extension": ".ts",
+              "size": 8726,
+              "modified": "2025-03-20T00:56:38.544Z"
+            },
+            "__tests__": {
+              "type": "directory",
+              "path": "lib\\token-counting\\__tests__",
+              "children": {
+                "TokenCounter.test.ts": {
+                  "type": "file",
+                  "path": "lib\\token-counting\\__tests__\\TokenCounter.test.ts",
+                  "extension": ".ts",
+                  "size": 11505,
+                  "modified": "2025-03-20T02:52:02.405Z"
+                }
+              }
+            }
+          }
+        },
+        "utils.ts": {
+          "type": "file",
+          "path": "lib\\utils.ts",
+          "extension": ".ts",
+          "size": 171,
+          "modified": "2025-03-19T19:45:27.624Z"
+        }
+      }
+    },
+    "mcp-jsonrpc-server-fixed.js": {
+      "type": "file",
+      "path": "mcp-jsonrpc-server-fixed.js",
+      "extension": ".js",
+      "size": 8050,
+      "modified": "2025-03-20T18:35:47.040Z"
+    },
+    "mcp-servers": {
+      "type": "directory",
+      "path": "mcp-servers",
+      "children": {}
+    },
+    "next.config.ts": {
+      "type": "file",
+      "path": "next.config.ts",
+      "extension": ".ts",
+      "size": 320,
+      "modified": "2025-03-19T19:45:27.624Z"
+    },
+    "package-lock.json": {
+      "type": "file",
+      "path": "package-lock.json",
+      "extension": ".json",
+      "size": 451653,
+      "modified": "2025-03-20T16:15:50.084Z"
+    },
+    "package.json": {
+      "type": "file",
+      "path": "package.json",
+      "extension": ".json",
+      "size": 2456,
+      "modified": "2025-03-20T05:13:09.612Z"
+    },
+    "README.md": {
+      "type": "file",
+      "path": "README.md",
+      "extension": ".md",
+      "size": 4317,
+      "modified": "2025-03-19T19:45:27.585Z"
+    },
+    "REFACTORING-SUMMARY.md": {
+      "type": "file",
+      "path": "REFACTORING-SUMMARY.md",
+      "extension": ".md",
+      "size": 2049,
+      "modified": "2025-03-20T17:29:24.117Z"
+    },
+    "REFACTORING.md": {
+      "type": "file",
+      "path": "REFACTORING.md",
+      "extension": ".md",
+      "size": 4096,
+      "modified": "2025-03-20T17:29:01.366Z"
+    },
+    "scripts": {
+      "type": "directory",
+      "path": "scripts",
+      "children": {
+        "analyze-resource-usage.js": {
+          "type": "file",
+          "path": "scripts\\analyze-resource-usage.js",
+          "extension": ".js",
+          "size": 10458,
+          "modified": "2025-03-20T00:34:56.549Z"
+        },
+        "codebase-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\codebase-analyzer.js",
+          "extension": ".js",
+          "size": 8927,
+          "modified": "2025-03-20T18:11:56.953Z"
+        },
+        "feedback-driven-testing.js": {
+          "type": "file",
+          "path": "scripts\\feedback-driven-testing.js",
+          "extension": ".js",
+          "size": 14432,
+          "modified": "2025-03-20T03:10:41.062Z"
+        },
+        "fixed-codebase-analysis.js": {
+          "type": "file",
+          "path": "scripts\\fixed-codebase-analysis.js",
+          "extension": ".js",
+          "size": 5241,
+          "modified": "2025-03-20T20:17:52.852Z"
+        },
+        "fixed-semantic-server.js": {
+          "type": "file",
+          "path": "scripts\\fixed-semantic-server.js",
+          "extension": ".js",
+          "size": 0,
+          "modified": "2025-03-20T04:56:38.392Z"
+        },
+        "generate-fixed-server.js": {
+          "type": "file",
+          "path": "scripts\\generate-fixed-server.js",
+          "extension": ".js",
+          "size": 8225,
+          "modified": "2025-03-20T18:24:25.441Z"
+        },
+        "generate-report.js": {
+          "type": "file",
+          "path": "scripts\\generate-report.js",
+          "extension": ".js",
+          "size": 13576,
+          "modified": "2025-03-20T01:20:55.606Z"
+        },
+        "import-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\import-analyzer.js",
+          "extension": ".js",
+          "size": 10335,
+          "modified": "2025-03-20T19:50:12.155Z"
+        },
+        "IMPORT-FIX-SUMMARY.md": {
+          "type": "file",
+          "path": "scripts\\IMPORT-FIX-SUMMARY.md",
+          "extension": ".md",
+          "size": 3110,
+          "modified": "2025-03-20T19:30:44.057Z"
+        },
+        "IMPORT-FIX.md": {
+          "type": "file",
+          "path": "scripts\\IMPORT-FIX.md",
+          "extension": ".md",
+          "size": 38,
+          "modified": "2025-03-20T04:57:20.055Z"
+        },
+        "mcp-server-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\mcp-server-analyzer.js",
+          "extension": ".js",
+          "size": 9851,
+          "modified": "2025-03-20T19:56:29.519Z"
+        },
+        "python_repl_server.py": {
+          "type": "file",
+          "path": "scripts\\python_repl_server.py",
+          "extension": ".py",
+          "size": 5893,
+          "modified": "2025-03-20T05:10:44.964Z"
+        },
+        "quick-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\quick-analyzer.js",
+          "extension": ".js",
+          "size": 7668,
+          "modified": "2025-03-20T18:23:46.581Z"
+        },
+        "README-fixed-server.md": {
+          "type": "file",
+          "path": "scripts\\README-fixed-server.md",
+          "extension": ".md",
+          "size": 2146,
+          "modified": "2025-03-20T19:30:08.106Z"
+        },
+        "repo-mapper.js": {
+          "type": "file",
+          "path": "scripts\\repo-mapper.js",
+          "extension": ".js",
+          "size": 6184,
+          "modified": "2025-03-20T19:49:29.019Z"
+        },
+        "rogerthat-server-mock.js": {
+          "type": "file",
+          "path": "scripts\\rogerthat-server-mock.js",
+          "extension": ".js",
+          "size": 721,
+          "modified": "2025-03-20T04:54:56.620Z"
+        },
+        "rogerthat-server.js": {
+          "type": "file",
+          "path": "scripts\\rogerthat-server.js",
+          "extension": ".js",
+          "size": 20936,
+          "modified": "2025-03-20T05:15:31.343Z"
+        },
+        "run-codebase-analysis.js": {
+          "type": "file",
+          "path": "scripts\\run-codebase-analysis.js",
+          "extension": ".js",
+          "size": 13955,
+          "modified": "2025-03-20T19:58:28.929Z"
+        },
+        "sdk-test.js": {
+          "type": "file",
+          "path": "scripts\\sdk-test.js",
+          "extension": ".js",
+          "size": 396,
+          "modified": "2025-03-20T19:27:58.670Z"
+        },
+        "semantic-server-mock.js": {
+          "type": "file",
+          "path": "scripts\\semantic-server-mock.js",
+          "extension": ".js",
+          "size": 602,
+          "modified": "2025-03-20T04:54:43.782Z"
+        },
+        "semantic-server.js": {
+          "type": "file",
+          "path": "scripts\\semantic-server.js",
+          "extension": ".js",
+          "size": 8367,
+          "modified": "2025-03-20T05:15:46.900Z"
+        },
+        "server-comparison-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\server-comparison-analyzer.js",
+          "extension": ".js",
+          "size": 10007,
+          "modified": "2025-03-20T18:12:40.496Z"
+        },
+        "setup.js": {
+          "type": "file",
+          "path": "scripts\\setup.js",
+          "extension": ".js",
+          "size": 2444,
+          "modified": "2025-03-20T05:16:08.487Z"
+        },
+        "simple-cleanup-organizer.js": {
+          "type": "file",
+          "path": "scripts\\simple-cleanup-organizer.js",
+          "extension": ".js",
+          "size": 9876,
+          "modified": "2025-03-20T20:18:40.655Z"
+        },
+        "simple-mcp-server.js": {
+          "type": "file",
+          "path": "scripts\\simple-mcp-server.js",
+          "extension": ".js",
+          "size": 5819,
+          "modified": "2025-03-20T19:04:07.580Z"
+        },
+        "simplified-rogerthat-server.js": {
+          "type": "file",
+          "path": "scripts\\simplified-rogerthat-server.js",
+          "extension": ".js",
+          "size": 3120,
+          "modified": "2025-03-20T16:21:55.278Z"
+        },
+        "simplified-semantic-server.js": {
+          "type": "file",
+          "path": "scripts\\simplified-semantic-server.js",
+          "extension": ".js",
+          "size": 2798,
+          "modified": "2025-03-20T16:22:38.895Z"
+        },
+        "test-coverage-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\test-coverage-analyzer.js",
+          "extension": ".js",
+          "size": 8571,
+          "modified": "2025-03-20T19:55:43.294Z"
+        },
+        "test-fixed-server.js": {
+          "type": "file",
+          "path": "scripts\\test-fixed-server.js",
+          "extension": ".js",
+          "size": 2356,
+          "modified": "2025-03-20T19:28:37.974Z"
+        },
+        "test-import-fix.js": {
+          "type": "file",
+          "path": "scripts\\test-import-fix.js",
+          "extension": ".js",
+          "size": 1878,
+          "modified": "2025-03-20T19:31:49.945Z"
+        },
+        "test-prioritization.js": {
+          "type": "file",
+          "path": "scripts\\test-prioritization.js",
+          "extension": ".js",
+          "size": 9744,
+          "modified": "2025-03-20T01:19:59.567Z"
+        },
+        "test-resource-prioritization-runner.ts": {
+          "type": "file",
+          "path": "scripts\\test-resource-prioritization-runner.ts",
+          "extension": ".ts",
+          "size": 3996,
+          "modified": "2025-03-20T02:07:37.422Z"
+        },
+        "test-resource-token-management.js": {
+          "type": "file",
+          "path": "scripts\\test-resource-token-management.js",
+          "extension": ".js",
+          "size": 2929,
+          "modified": "2025-03-20T00:31:53.276Z"
+        },
+        "test-resource-tracking.js": {
+          "type": "file",
+          "path": "scripts\\test-resource-tracking.js",
+          "extension": ".js",
+          "size": 12763,
+          "modified": "2025-03-20T03:01:59.269Z"
+        },
+        "tree-sitter-analyzer.js": {
+          "type": "file",
+          "path": "scripts\\tree-sitter-analyzer.js",
+          "extension": ".js",
+          "size": 18883,
+          "modified": "2025-03-20T18:16:48.371Z"
+        },
+        "unified-server.js": {
+          "type": "file",
+          "path": "scripts\\unified-server.js",
+          "extension": ".js",
+          "size": 19631,
+          "modified": "2025-03-20T19:29:52.904Z"
+        }
+      }
+    },
+    "Server Catalog.md": {
+      "type": "file",
+      "path": "Server Catalog.md",
+      "extension": ".md",
+      "size": 22302,
+      "modified": "2025-03-19T20:57:12.710Z"
+    },
+    "tailwind.config.ts": {
+      "type": "file",
+      "path": "tailwind.config.ts",
+      "extension": ".ts",
+      "size": 2150,
+      "modified": "2025-03-19T19:45:27.632Z"
+    },
+    "tsconfig.json": {
+      "type": "file",
+      "path": "tsconfig.json",
+      "extension": ".json",
+      "size": 625,
+      "modified": "2025-03-19T19:45:27.632Z"
+    },
+    "unified-launch.bat": {
+      "type": "file",
+      "path": "unified-launch.bat",
+      "extension": ".bat",
+      "size": 2760,
+      "modified": "2025-03-20T17:10:50.436Z"
+    }
+  }
+}
