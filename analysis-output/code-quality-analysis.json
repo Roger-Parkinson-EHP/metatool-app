@@ -1,0 +1,2159 @@
+{
+  "metrics": {
+    "fileMetrics": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\server-analyzer.js",
+        "lines": 347,
+        "codeLines": 259,
+        "commentLines": 42,
+        "blankLines": 46,
+        "functions": 5,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 141,
+          "maxDepth": 6,
+          "maxMethodLength": 14,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sidebar.tsx",
+        "lines": 756,
+        "codeLines": 690,
+        "commentLines": 11,
+        "blankLines": 55,
+        "functions": 38,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 104,
+          "maxDepth": 4,
+          "maxMethodLength": 26,
+          "maxParameterCount": 8
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourcePrioritizationRunner.ts",
+        "lines": 541,
+        "codeLines": 315,
+        "commentLines": 145,
+        "blankLines": 81,
+        "functions": 12,
+        "classes": 2,
+        "complexity": {
+          "cyclomaticComplexity": 90,
+          "maxDepth": 7,
+          "maxMethodLength": 12,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\dependency-analyzer.js",
+        "lines": 475,
+        "codeLines": 341,
+        "commentLines": 62,
+        "blankLines": 72,
+        "functions": 12,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 90,
+          "maxDepth": 7,
+          "maxMethodLength": 31,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-unified-server.js",
+        "lines": 648,
+        "codeLines": 486,
+        "commentLines": 82,
+        "blankLines": 80,
+        "functions": 33,
+        "classes": 2,
+        "complexity": {
+          "cyclomaticComplexity": 84,
+          "maxDepth": 10,
+          "maxMethodLength": 37,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\page.tsx",
+        "lines": 623,
+        "codeLines": 598,
+        "commentLines": 7,
+        "blankLines": 18,
+        "functions": 36,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 73,
+          "maxDepth": 6,
+          "maxMethodLength": 42,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\code-metrics.js",
+        "lines": 319,
+        "codeLines": 223,
+        "commentLines": 41,
+        "blankLines": 55,
+        "functions": 10,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 73,
+          "maxDepth": 5,
+          "maxMethodLength": 19,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\highcharts-dashboard.tsx",
+        "lines": 702,
+        "codeLines": 636,
+        "commentLines": 24,
+        "blankLines": 42,
+        "functions": 25,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 66,
+          "maxDepth": 5,
+          "maxMethodLength": 20,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\feedback-driven-testing.js",
+        "lines": 436,
+        "codeLines": 308,
+        "commentLines": 56,
+        "blankLines": 72,
+        "functions": 12,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 65,
+          "maxDepth": 6,
+          "maxMethodLength": 15,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\[uuid]\\page.tsx",
+        "lines": 402,
+        "codeLines": 378,
+        "commentLines": 1,
+        "blankLines": 23,
+        "functions": 22,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 64,
+          "maxDepth": 4,
+          "maxMethodLength": 29,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyze-resource-usage.js",
+        "lines": 342,
+        "codeLines": 265,
+        "commentLines": 24,
+        "blankLines": 53,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 61,
+          "maxDepth": 5,
+          "maxMethodLength": 19,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\[uuid]\\page.tsx",
+        "lines": 404,
+        "codeLines": 380,
+        "commentLines": 1,
+        "blankLines": 23,
+        "functions": 21,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 58,
+          "maxDepth": 5,
+          "maxMethodLength": 23,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\report-generator.js",
+        "lines": 483,
+        "codeLines": 414,
+        "commentLines": 22,
+        "blankLines": 47,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 54,
+          "maxDepth": 4,
+          "maxMethodLength": 2,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\token-counting\\TokenCounter.ts",
+        "lines": 273,
+        "codeLines": 145,
+        "commentLines": 99,
+        "blankLines": 29,
+        "functions": 1,
+        "classes": 4,
+        "complexity": {
+          "cyclomaticComplexity": 50,
+          "maxDepth": 4,
+          "maxMethodLength": 0,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\enhanced-analyzer.js",
+        "lines": 296,
+        "codeLines": 235,
+        "commentLines": 27,
+        "blankLines": 34,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 47,
+          "maxDepth": 3,
+          "maxMethodLength": 15,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\page.tsx",
+        "lines": 423,
+        "codeLines": 400,
+        "commentLines": 0,
+        "blankLines": 23,
+        "functions": 26,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 44,
+          "maxDepth": 6,
+          "maxMethodLength": 15,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourceTracker.ts",
+        "lines": 251,
+        "codeLines": 122,
+        "commentLines": 98,
+        "blankLines": 31,
+        "functions": 3,
+        "classes": 1,
+        "complexity": {
+          "cyclomaticComplexity": 44,
+          "maxDepth": 3,
+          "maxMethodLength": 0,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourceService.ts",
+        "lines": 425,
+        "codeLines": 264,
+        "commentLines": 120,
+        "blankLines": 41,
+        "functions": 2,
+        "classes": 1,
+        "complexity": {
+          "cyclomaticComplexity": 43,
+          "maxDepth": 4,
+          "maxMethodLength": 0,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\repo-structure.js",
+        "lines": 231,
+        "codeLines": 158,
+        "commentLines": 36,
+        "blankLines": 37,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 42,
+          "maxDepth": 7,
+          "maxMethodLength": 29,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceTracker.test.ts",
+        "lines": 288,
+        "codeLines": 196,
+        "commentLines": 32,
+        "blankLines": 60,
+        "functions": 32,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 41,
+          "maxDepth": 5,
+          "maxMethodLength": 29,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-resource-tracking.ts",
+        "lines": 192,
+        "codeLines": 140,
+        "commentLines": 26,
+        "blankLines": 26,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 40,
+          "maxDepth": 8,
+          "maxMethodLength": 12,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\api-keys\\page.tsx",
+        "lines": 248,
+        "codeLines": 235,
+        "commentLines": 0,
+        "blankLines": 13,
+        "functions": 15,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 39,
+          "maxDepth": 4,
+          "maxMethodLength": 6,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\mcp-jsonrpc-server-fixed.js",
+        "lines": 284,
+        "codeLines": 233,
+        "commentLines": 24,
+        "blankLines": 27,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 37,
+          "maxDepth": 8,
+          "maxMethodLength": 13,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-utils.js",
+        "lines": 221,
+        "codeLines": 158,
+        "commentLines": 36,
+        "blankLines": 27,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 36,
+          "maxDepth": 5,
+          "maxMethodLength": 31,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\form.tsx",
+        "lines": 179,
+        "codeLines": 153,
+        "commentLines": 0,
+        "blankLines": 26,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 35,
+          "maxDepth": 2,
+          "maxMethodLength": 5,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\test-utils.ts",
+        "lines": 157,
+        "codeLines": 119,
+        "commentLines": 25,
+        "blankLines": 13,
+        "functions": 13,
+        "classes": 1,
+        "complexity": {
+          "cyclomaticComplexity": 34,
+          "maxDepth": 5,
+          "maxMethodLength": 9,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\setup-guide\\page.tsx",
+        "lines": 318,
+        "codeLines": 295,
+        "commentLines": 0,
+        "blankLines": 23,
+        "functions": 18,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 33,
+          "maxDepth": 7,
+          "maxMethodLength": 11,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourcePrioritizationRunner.test.ts",
+        "lines": 418,
+        "codeLines": 304,
+        "commentLines": 48,
+        "blankLines": 66,
+        "functions": 46,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 33,
+          "maxDepth": 5,
+          "maxMethodLength": 45,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\components\\CardGrid.tsx",
+        "lines": 271,
+        "codeLines": 260,
+        "commentLines": 0,
+        "blankLines": 11,
+        "functions": 16,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 30,
+          "maxDepth": 5,
+          "maxMethodLength": 18,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\token-counting\\__tests__\\TokenCounter.test.ts",
+        "lines": 338,
+        "codeLines": 224,
+        "commentLines": 47,
+        "blankLines": 67,
+        "functions": 31,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 29,
+          "maxDepth": 5,
+          "maxMethodLength": 25,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\mcp-servers.ts",
+        "lines": 156,
+        "codeLines": 139,
+        "commentLines": 1,
+        "blankLines": 16,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 26,
+          "maxDepth": 3,
+          "maxMethodLength": 18,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourcePrioritizationRunner.test.ts",
+        "lines": 275,
+        "codeLines": 209,
+        "commentLines": 23,
+        "blankLines": 43,
+        "functions": 32,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 26,
+          "maxDepth": 5,
+          "maxMethodLength": 42,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\__tests__\\use-resource-tracking.test.tsx",
+        "lines": 304,
+        "codeLines": 194,
+        "commentLines": 47,
+        "blankLines": 63,
+        "functions": 31,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 25,
+          "maxDepth": 3,
+          "maxMethodLength": 24,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\resource-tracking.ts",
+        "lines": 145,
+        "codeLines": 81,
+        "commentLines": 42,
+        "blankLines": 22,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 24,
+          "maxDepth": 2,
+          "maxMethodLength": 0,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-toast.ts",
+        "lines": 192,
+        "codeLines": 157,
+        "commentLines": 3,
+        "blankLines": 32,
+        "functions": 18,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 24,
+          "maxDepth": 5,
+          "maxMethodLength": 10,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\profile-switcher.tsx",
+        "lines": 217,
+        "codeLines": 210,
+        "commentLines": 0,
+        "blankLines": 7,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 23,
+          "maxDepth": 4,
+          "maxMethodLength": 8,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\llm\\context-provider.ts",
+        "lines": 121,
+        "codeLines": 90,
+        "commentLines": 18,
+        "blankLines": 13,
+        "functions": 2,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 23,
+          "maxDepth": 4,
+          "maxMethodLength": 9,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\tailwind.config.ts",
+        "lines": 73,
+        "codeLines": 71,
+        "commentLines": 0,
+        "blankLines": 2,
+        "functions": 0,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 23,
+          "maxDepth": 5,
+          "maxMethodLength": 0,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\dropdown-menu.tsx",
+        "lines": 202,
+        "codeLines": 183,
+        "commentLines": 0,
+        "blankLines": 19,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 22,
+          "maxDepth": 1,
+          "maxMethodLength": 7,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+        "lines": 536,
+        "codeLines": 434,
+        "commentLines": 30,
+        "blankLines": 72,
+        "functions": 31,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 22,
+          "maxDepth": 8,
+          "maxMethodLength": 23,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\context-resources-panel.tsx",
+        "lines": 149,
+        "codeLines": 118,
+        "commentLines": 13,
+        "blankLines": 18,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 21,
+          "maxDepth": 4,
+          "maxMethodLength": 18,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\code.ts",
+        "lines": 113,
+        "codeLines": 84,
+        "commentLines": 9,
+        "blankLines": 20,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 20,
+          "maxDepth": 2,
+          "maxMethodLength": 14,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-profiles.ts",
+        "lines": 73,
+        "codeLines": 58,
+        "commentLines": 3,
+        "blankLines": 12,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 18,
+          "maxDepth": 5,
+          "maxMethodLength": 9,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\resource-logger.ts",
+        "lines": 129,
+        "codeLines": 74,
+        "commentLines": 40,
+        "blankLines": 15,
+        "functions": 4,
+        "classes": 2,
+        "complexity": {
+          "cyclomaticComplexity": 18,
+          "maxDepth": 3,
+          "maxMethodLength": 0,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\settings\\components\\current-profile-section.tsx",
+        "lines": 166,
+        "codeLines": 155,
+        "commentLines": 0,
+        "blankLines": 11,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 15,
+          "maxDepth": 4,
+          "maxMethodLength": 11,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\resource-importance-indicator.tsx",
+        "lines": 73,
+        "codeLines": 54,
+        "commentLines": 9,
+        "blankLines": 10,
+        "functions": 3,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 15,
+          "maxDepth": 2,
+          "maxMethodLength": 12,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\command.tsx",
+        "lines": 154,
+        "codeLines": 136,
+        "commentLines": 0,
+        "blankLines": 18,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 15,
+          "maxDepth": 2,
+          "maxMethodLength": 10,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\profiles.ts",
+        "lines": 185,
+        "codeLines": 141,
+        "commentLines": 6,
+        "blankLines": 38,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 14,
+          "maxDepth": 3,
+          "maxMethodLength": 13,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\toast.tsx",
+        "lines": 129,
+        "codeLines": 115,
+        "commentLines": 0,
+        "blankLines": 14,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 14,
+          "maxDepth": 3,
+          "maxMethodLength": 4,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\page.tsx",
+        "lines": 92,
+        "codeLines": 77,
+        "commentLines": 0,
+        "blankLines": 15,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 13,
+          "maxDepth": 4,
+          "maxMethodLength": 8,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\settings\\components\\current-project-section.tsx",
+        "lines": 161,
+        "codeLines": 151,
+        "commentLines": 0,
+        "blankLines": 10,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 13,
+          "maxDepth": 4,
+          "maxMethodLength": 11,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\sidebar-layout.tsx",
+        "lines": 296,
+        "codeLines": 286,
+        "commentLines": 0,
+        "blankLines": 10,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 13,
+          "maxDepth": 6,
+          "maxMethodLength": 19,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-token-server.js",
+        "lines": 108,
+        "codeLines": 85,
+        "commentLines": 12,
+        "blankLines": 11,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 13,
+          "maxDepth": 7,
+          "maxMethodLength": 0,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\run-analyzer.js",
+        "lines": 80,
+        "codeLines": 51,
+        "commentLines": 14,
+        "blankLines": 15,
+        "functions": 4,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 12,
+          "maxDepth": 5,
+          "maxMethodLength": 20,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\setup.js",
+        "lines": 62,
+        "codeLines": 48,
+        "commentLines": 6,
+        "blankLines": 8,
+        "functions": 0,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 12,
+          "maxDepth": 3,
+          "maxMethodLength": 0,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\inspector-guide\\page.tsx",
+        "lines": 62,
+        "codeLines": 56,
+        "commentLines": 0,
+        "blankLines": 6,
+        "functions": 3,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 11,
+          "maxDepth": 4,
+          "maxMethodLength": 24,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\project-switcher.tsx",
+        "lines": 160,
+        "codeLines": 152,
+        "commentLines": 0,
+        "blankLines": 8,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 11,
+          "maxDepth": 4,
+          "maxMethodLength": 9,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\token-budget-indicator.tsx",
+        "lines": 72,
+        "codeLines": 51,
+        "commentLines": 12,
+        "blankLines": 9,
+        "functions": 3,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 11,
+          "maxDepth": 2,
+          "maxMethodLength": 16,
+          "maxParameterCount": 6
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\components\\PaginationUi.tsx",
+        "lines": 106,
+        "codeLines": 89,
+        "commentLines": 3,
+        "blankLines": 14,
+        "functions": 8,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 10,
+          "maxDepth": 4,
+          "maxMethodLength": 13,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\button.tsx",
+        "lines": 58,
+        "codeLines": 52,
+        "commentLines": 0,
+        "blankLines": 6,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 10,
+          "maxDepth": 3,
+          "maxMethodLength": 6,
+          "maxParameterCount": 6
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\card.tsx",
+        "lines": 77,
+        "codeLines": 68,
+        "commentLines": 0,
+        "blankLines": 9,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 9,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-projects.ts",
+        "lines": 50,
+        "codeLines": 38,
+        "commentLines": 3,
+        "blankLines": 9,
+        "functions": 4,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 9,
+          "maxDepth": 5,
+          "maxMethodLength": 9,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\projects.ts",
+        "lines": 120,
+        "codeLines": 90,
+        "commentLines": 4,
+        "blankLines": 26,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 8,
+          "maxDepth": 3,
+          "maxMethodLength": 10,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\dialog.tsx",
+        "lines": 123,
+        "codeLines": 109,
+        "commentLines": 0,
+        "blankLines": 14,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 8,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\pagination.tsx",
+        "lines": 118,
+        "codeLines": 107,
+        "commentLines": 0,
+        "blankLines": 11,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 8,
+          "maxDepth": 2,
+          "maxMethodLength": 0,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sheet.tsx",
+        "lines": 141,
+        "codeLines": 125,
+        "commentLines": 0,
+        "blankLines": 16,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 8,
+          "maxDepth": 3,
+          "maxMethodLength": 0,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\tabs.tsx",
+        "lines": 56,
+        "codeLines": 48,
+        "commentLines": 0,
+        "blankLines": 8,
+        "functions": 3,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 8,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\custom-mcp-servers.ts",
+        "lines": 165,
+        "codeLines": 149,
+        "commentLines": 2,
+        "blankLines": 14,
+        "functions": 6,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 6,
+          "maxDepth": 2,
+          "maxMethodLength": 15,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\api\\auth.ts",
+        "lines": 51,
+        "codeLines": 43,
+        "commentLines": 0,
+        "blankLines": 8,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 6,
+          "maxDepth": 3,
+          "maxMethodLength": 6,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-semantic-server.js",
+        "lines": 96,
+        "codeLines": 73,
+        "commentLines": 12,
+        "blankLines": 11,
+        "functions": 2,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 6,
+          "maxDepth": 5,
+          "maxMethodLength": 0,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\editor\\[uuid]\\page.tsx",
+        "lines": 70,
+        "codeLines": 59,
+        "commentLines": 1,
+        "blankLines": 10,
+        "functions": 7,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 3,
+          "maxMethodLength": 6,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\api\\custom-mcp-servers\\route.ts",
+        "lines": 88,
+        "codeLines": 78,
+        "commentLines": 0,
+        "blankLines": 10,
+        "functions": 2,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 3,
+          "maxMethodLength": 19,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\api\\mcp-servers\\route.ts",
+        "lines": 64,
+        "codeLines": 55,
+        "commentLines": 0,
+        "blankLines": 9,
+        "functions": 2,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 3,
+          "maxMethodLength": 16,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\avatar.tsx",
+        "lines": 51,
+        "codeLines": 44,
+        "commentLines": 0,
+        "blankLines": 7,
+        "functions": 3,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\badge.tsx",
+        "lines": 37,
+        "codeLines": 31,
+        "commentLines": 0,
+        "blankLines": 6,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 3,
+          "maxMethodLength": 3,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\scroll-area.tsx",
+        "lines": 49,
+        "codeLines": 43,
+        "commentLines": 0,
+        "blankLines": 6,
+        "functions": 2,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\schema.ts",
+        "lines": 160,
+        "codeLines": 148,
+        "commentLines": 0,
+        "blankLines": 12,
+        "functions": 9,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 5,
+          "maxDepth": 2,
+          "maxMethodLength": 0,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\api-keys.ts",
+        "lines": 73,
+        "codeLines": 58,
+        "commentLines": 0,
+        "blankLines": 15,
+        "functions": 4,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 4,
+          "maxDepth": 3,
+          "maxMethodLength": 10,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\input.tsx",
+        "lines": 23,
+        "codeLines": 19,
+        "commentLines": 0,
+        "blankLines": 4,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 4,
+          "maxDepth": 2,
+          "maxMethodLength": 5,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\switch.tsx",
+        "lines": 30,
+        "codeLines": 25,
+        "commentLines": 0,
+        "blankLines": 5,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 4,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\popover.tsx",
+        "lines": 34,
+        "codeLines": 26,
+        "commentLines": 0,
+        "blankLines": 8,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\separator.tsx",
+        "lines": 32,
+        "codeLines": 27,
+        "commentLines": 0,
+        "blankLines": 5,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 5
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\textarea.tsx",
+        "lines": 23,
+        "codeLines": 19,
+        "commentLines": 0,
+        "blankLines": 4,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 2,
+          "maxMethodLength": 7,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\toaster.tsx",
+        "lines": 36,
+        "codeLines": 32,
+        "commentLines": 0,
+        "blankLines": 4,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 4,
+          "maxMethodLength": 2,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\tooltip.tsx",
+        "lines": 33,
+        "codeLines": 25,
+        "commentLines": 0,
+        "blankLines": 8,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 4
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\migrations\\resource-tracking-schema.ts",
+        "lines": 107,
+        "codeLines": 78,
+        "commentLines": 18,
+        "blankLines": 11,
+        "functions": 24,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 1,
+          "maxMethodLength": 86,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\migrations\\semantic-enhancement-schema.ts",
+        "lines": 93,
+        "codeLines": 62,
+        "commentLines": 18,
+        "blankLines": 13,
+        "functions": 15,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 1,
+          "maxMethodLength": 22,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-codes.ts",
+        "lines": 44,
+        "codeLines": 37,
+        "commentLines": 0,
+        "blankLines": 7,
+        "functions": 4,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 3,
+          "maxDepth": 2,
+          "maxMethodLength": 9,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\editor\\page.tsx",
+        "lines": 8,
+        "codeLines": 7,
+        "commentLines": 0,
+        "blankLines": 1,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 2,
+          "maxDepth": 1,
+          "maxMethodLength": 7,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\layout.tsx",
+        "lines": 38,
+        "codeLines": 31,
+        "commentLines": 0,
+        "blankLines": 7,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 2,
+          "maxDepth": 1,
+          "maxMethodLength": 9,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\label.tsx",
+        "lines": 27,
+        "codeLines": 21,
+        "commentLines": 0,
+        "blankLines": 6,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 2,
+          "maxDepth": 0,
+          "maxMethodLength": 0,
+          "maxParameterCount": 3
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\layout.tsx",
+        "lines": 10,
+        "codeLines": 8,
+        "commentLines": 0,
+        "blankLines": 2,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 6,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\settings\\page.tsx",
+        "lines": 17,
+        "codeLines": 14,
+        "commentLines": 0,
+        "blankLines": 3,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 11,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\layout.tsx",
+        "lines": 12,
+        "codeLines": 9,
+        "commentLines": 0,
+        "blankLines": 3,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 6,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\page.tsx",
+        "lines": 6,
+        "codeLines": 4,
+        "commentLines": 0,
+        "blankLines": 2,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 3,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\skeleton.tsx",
+        "lines": 16,
+        "codeLines": 13,
+        "commentLines": 0,
+        "blankLines": 3,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 7,
+          "maxParameterCount": 2
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\index.ts",
+        "lines": 8,
+        "codeLines": 4,
+        "commentLines": 0,
+        "blankLines": 4,
+        "functions": 0,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 0,
+          "maxMethodLength": 0,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\utils\\enum-to-pg-enum.ts",
+        "lines": 6,
+        "codeLines": 5,
+        "commentLines": 0,
+        "blankLines": 1,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 0,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\drizzle.config.ts",
+        "lines": 13,
+        "codeLines": 10,
+        "commentLines": 0,
+        "blankLines": 3,
+        "functions": 0,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 2,
+          "maxMethodLength": 0,
+          "maxParameterCount": 0
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-mobile.tsx",
+        "lines": 20,
+        "codeLines": 15,
+        "commentLines": 0,
+        "blankLines": 5,
+        "functions": 4,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 3,
+          "maxMethodLength": 5,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\utils.ts",
+        "lines": 7,
+        "codeLines": 5,
+        "commentLines": 0,
+        "blankLines": 2,
+        "functions": 1,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 1,
+          "maxMethodLength": 3,
+          "maxParameterCount": 1
+        }
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\next.config.ts",
+        "lines": 16,
+        "codeLines": 13,
+        "commentLines": 0,
+        "blankLines": 3,
+        "functions": 0,
+        "classes": 0,
+        "complexity": {
+          "cyclomaticComplexity": 1,
+          "maxDepth": 3,
+          "maxMethodLength": 0,
+          "maxParameterCount": 0
+        }
+      }
+    ],
+    "summary": {
+      "totalFiles": 102,
+      "totalLines": 18188,
+      "totalCodeLines": 14610,
+      "totalCommentLines": 1485,
+      "totalBlankLines": 2093,
+      "totalFunctions": 884,
+      "totalClasses": 13,
+      "averageComplexity": 23.147058823529413,
+      "averageDepth": 3.450980392156863,
+      "averageMethodLength": 11.686274509803921,
+      "averageParameterCount": 2.5686274509803924
+    }
+  },
+  "refactoringCandidates": {
+    "highComplexity": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\server-analyzer.js",
+        "complexity": 141,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sidebar.tsx",
+        "complexity": 104,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourcePrioritizationRunner.ts",
+        "complexity": 90,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\dependency-analyzer.js",
+        "complexity": 90,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-unified-server.js",
+        "complexity": 84,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\page.tsx",
+        "complexity": 73,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\code-metrics.js",
+        "complexity": 73,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\highcharts-dashboard.tsx",
+        "complexity": 66,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\feedback-driven-testing.js",
+        "complexity": 65,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\[uuid]\\page.tsx",
+        "complexity": 64,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyze-resource-usage.js",
+        "complexity": 61,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\[uuid]\\page.tsx",
+        "complexity": 58,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\report-generator.js",
+        "complexity": 54,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\token-counting\\TokenCounter.ts",
+        "complexity": 50,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\enhanced-analyzer.js",
+        "complexity": 47,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\page.tsx",
+        "complexity": 44,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourceTracker.ts",
+        "complexity": 44,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourceService.ts",
+        "complexity": 43,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\repo-structure.js",
+        "complexity": 42,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceTracker.test.ts",
+        "complexity": 41,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-resource-tracking.ts",
+        "complexity": 40,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\api-keys\\page.tsx",
+        "complexity": 39,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\mcp-jsonrpc-server-fixed.js",
+        "complexity": 37,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-utils.js",
+        "complexity": 36,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\form.tsx",
+        "complexity": 35,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\test-utils.ts",
+        "complexity": 34,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\setup-guide\\page.tsx",
+        "complexity": 33,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourcePrioritizationRunner.test.ts",
+        "complexity": 33,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\components\\CardGrid.tsx",
+        "complexity": 30,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\token-counting\\__tests__\\TokenCounter.test.ts",
+        "complexity": 29,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\mcp-servers.ts",
+        "complexity": 26,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourcePrioritizationRunner.test.ts",
+        "complexity": 26,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\__tests__\\use-resource-tracking.test.tsx",
+        "complexity": 25,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\resource-tracking.ts",
+        "complexity": 24,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-toast.ts",
+        "complexity": 24,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\profile-switcher.tsx",
+        "complexity": 23,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\llm\\context-provider.ts",
+        "complexity": 23,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\tailwind.config.ts",
+        "complexity": 23,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\dropdown-menu.tsx",
+        "complexity": 22,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+        "complexity": 22,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\context-resources-panel.tsx",
+        "complexity": 21,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\code.ts",
+        "complexity": 20,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-profiles.ts",
+        "complexity": 18,
+        "threshold": 15
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\resource-logger.ts",
+        "complexity": 18,
+        "threshold": 15
+      }
+    ],
+    "deepNesting": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\server-analyzer.js",
+        "depth": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\ResourcePrioritizationRunner.ts",
+        "depth": 7,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\dependency-analyzer.js",
+        "depth": 7,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-unified-server.js",
+        "depth": 10,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\page.tsx",
+        "depth": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\feedback-driven-testing.js",
+        "depth": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\page.tsx",
+        "depth": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\repo-structure.js",
+        "depth": 7,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-resource-tracking.ts",
+        "depth": 8,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\mcp-jsonrpc-server-fixed.js",
+        "depth": 8,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\setup-guide\\page.tsx",
+        "depth": 7,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+        "depth": 8,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\sidebar-layout.tsx",
+        "depth": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\mcp-token-server.js",
+        "depth": 7,
+        "threshold": 5
+      }
+    ],
+    "longMethods": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\migrations\\resource-tracking-schema.ts",
+        "methodLength": 86,
+        "threshold": 50
+      }
+    ],
+    "manyParameters": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sidebar.tsx",
+        "parameterCount": 8,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\token-budget-indicator.tsx",
+        "parameterCount": 6,
+        "threshold": 5
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\button.tsx",
+        "parameterCount": 6,
+        "threshold": 5
+      }
+    ],
+    "poorlyCommented": [
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sidebar.tsx",
+        "commentRatio": "0.02",
+        "comments": 11,
+        "code": 690,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\page.tsx",
+        "commentRatio": "0.01",
+        "comments": 7,
+        "code": 598,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\resource-tracking\\highcharts-dashboard.tsx",
+        "commentRatio": "0.04",
+        "comments": 24,
+        "code": 636,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\mcp-servers\\[uuid]\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 1,
+        "code": 378,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyze-resource-usage.js",
+        "commentRatio": "0.09",
+        "comments": 24,
+        "code": 265,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\[uuid]\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 1,
+        "code": 380,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\scripts\\analyzer-modules\\report-generator.js",
+        "commentRatio": "0.05",
+        "comments": 22,
+        "code": 414,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\custom-mcp-servers\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 400,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\api-keys\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 235,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\form.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 153,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\setup-guide\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 295,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\components\\CardGrid.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 260,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\mcp-servers.ts",
+        "commentRatio": "0.01",
+        "comments": 1,
+        "code": 139,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-toast.ts",
+        "commentRatio": "0.02",
+        "comments": 3,
+        "code": 157,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\profile-switcher.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 210,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\tailwind.config.ts",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 71,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\dropdown-menu.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 183,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\lib\\resource-tracking\\__tests__\\ResourceService.test.ts",
+        "commentRatio": "0.07",
+        "comments": 30,
+        "code": 434,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\hooks\\use-profiles.ts",
+        "commentRatio": "0.05",
+        "comments": 3,
+        "code": 58,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\settings\\components\\current-profile-section.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 155,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\command.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 136,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\profiles.ts",
+        "commentRatio": "0.04",
+        "comments": 6,
+        "code": 141,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\toast.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 115,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 77,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\settings\\components\\current-project-section.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 151,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\sidebar-layout.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 286,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\inspector-guide\\page.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 56,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\project-switcher.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 152,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\(container)\\search\\components\\PaginationUi.tsx",
+        "commentRatio": "0.03",
+        "comments": 3,
+        "code": 89,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\button.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 52,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\card.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 68,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\projects.ts",
+        "commentRatio": "0.04",
+        "comments": 4,
+        "code": 90,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\dialog.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 109,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\pagination.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 107,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\components\\ui\\sheet.tsx",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 125,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\custom-mcp-servers.ts",
+        "commentRatio": "0.01",
+        "comments": 2,
+        "code": 149,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\(sidebar-layout)\\editor\\[uuid]\\page.tsx",
+        "commentRatio": "0.02",
+        "comments": 1,
+        "code": 59,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\api\\custom-mcp-servers\\route.ts",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 78,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\api\\mcp-servers\\route.ts",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 55,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\db\\schema.ts",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 148,
+        "threshold": 0.1
+      },
+      {
+        "filePath": "D:\\UserRoger\\Documents\\GitHub\\modelcontextprotocol\\roger-metamcp\\app\\actions\\api-keys.ts",
+        "commentRatio": "0.00",
+        "comments": 0,
+        "code": 58,
+        "threshold": 0.1
+      }
+    ]
+  },
+  "analysisTime": "84ms"
+}

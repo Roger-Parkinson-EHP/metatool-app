@@ -346,7 +346,7 @@ class ResourceTracker {
       });
     }
     
-    console.error(`Loaded ${resources.length} resources from database`);
+    console.log(`Loaded ${resources.length} resources from database`);
   }
 }
 
@@ -600,7 +600,7 @@ async function startServer() {
     });
 
     // Create and connect transport with better error handling
-    console.error('Starting unified MCP server...');
+    console.log('Starting unified MCP server...');
     console.error('SDK Server and StdioServerTransport are available');
     
     const transport = new StdioServerTransport();
@@ -612,7 +612,7 @@ async function startServer() {
     
     try {
       await server.connect(transport);
-      console.error('Unified MCP server successfully started and connected');
+      console.log('Unified MCP server successfully started and connected');
     } catch (connectError) {
       console.error('Failed to connect server to transport:', connectError.message);
       throw connectError;
@@ -620,14 +620,14 @@ async function startServer() {
 
     // Handle process termination
     process.on('SIGINT', async () => {
-      console.error('Shutting down server...');
+      console.log('Shutting down server...');
       await server.close();
       db.close();
       process.exit(0);
     });
 
     process.on('SIGTERM', async () => {
-      console.error('Shutting down server...');
+      console.log('Shutting down server...');
       await server.close();
       db.close();
       process.exit(0);
@@ -645,5 +645,4 @@ startServer().catch(error => {
   console.error('Unhandled error:', error);
   process.exit(1);
 });
-
 

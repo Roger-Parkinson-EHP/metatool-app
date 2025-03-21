@@ -1,0 +1,23 @@
+try {
+  module.exports = require('@modelcontextprotocol/sdk');
+} catch (error) {
+  console.error('Falling back to local typescript-sdk...');
+  try {
+    module.exports = require('../../typescript-sdk');
+  } catch (secondError) {
+    console.error('Could not load SDK from any location:', secondError.message);
+    module.exports = {
+      Server: class Server {
+        constructor(options, capabilities) { 
+          this.options = options;
+          this.capabilities = capabilities;
+          console.error('Using SDK mock implementation'); 
+        }
+        setRequestHandler(method, handler) {}
+        connect(transport) { console.error('MCP server connect method called'); return Promise.resolve(); }
+        close() { return Promise.resolve(); }
+      },
+      StdioServerTransport: class StdioServerTransport {}
+    };
+  }
+}
